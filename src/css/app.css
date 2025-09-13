@@ -1,0 +1,26 @@
+@import 'tailwindcss';
+@plugin "./tw-betweeny.ts";
+
+@font-face {
+    font-family: 'Archivo-Variable';
+    src: url('/fonts/Archivo-Variable.woff2') format('woff2');
+    font-weight: 100 900;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClashDisplay-Variable';
+    src: url('/fonts/ClashDisplay-Variable.woff2') format('woff2');
+    font-weight: 200 700;
+    font-display: swap;
+    font-style: normal;
+}
+
+.archivo {
+    font-family: 'Archivo-Variable';
+}
+
+.clash {
+    font-family: 'ClashDisplay-Variable';
+}
