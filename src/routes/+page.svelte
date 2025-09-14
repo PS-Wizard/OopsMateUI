@@ -8,7 +8,7 @@
     <div class="flex justify-between p-16">
         <div class="flex flex-col gap-8 w-2/3">
             <h1 class="text-[4xl~8xl] clash leading-[1]">
-                An engine so strong, <br /> it regins for you. <br />
+                An engine so strong, <br /> it resigns for you. <br />
             </h1>
             <p class="max-w-3xl archivo tracking-wide text-neutral-600">
                 This is an ongoing Final Year Project — a chess engine website
